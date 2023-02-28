@@ -2,29 +2,26 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Olympic Games Analysis SQL Project</b>
+  - [Olympic games SQL](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Maven Toys Sales Analysis Excel Project</b>
+  - [Maven Toys Excel](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Global Terrorism Analysis Python Project</b>
+  - [Global Terrorism Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Movie Ratings Analysis PowerBI Project</b>
+  - [Movie Ratings PowerBI](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2>:page_with_curl: Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [SQL (Basic) HackerRank](https://www.hackerrank.com/certificates/61be5a5427ef)
+- [SQL (Intermediate) HackerRank](https://www.hackerrank.com/certificates/b6cd50ac6fa6)
+- [SQL (Advanced) HackerRank](https://www.hackerrank.com/certificates/9464db97b0e0)
+- [Excel Skills for Business - Coursera Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TCLBPZH4HJYF)
+- [Excel Skills for Data Analytics and Visualization - Coursera Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/8ZHTNAQ897W9)
+- [Power BI Fundamentals DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/0ac181e4bab2977919c135691f723b837d389bae?raw=1)
+- [Importing & Cleaning Data with Python DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/3b63a42880af5a0cd5d8805450ff320a5a0cd635)
+- [Data Manipulation with Python DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/2dfa5a6ef4a1de4625a3799b6ed83e586b2ba2b1)
+- [SQL for Business Analysts DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/4203a0ab9ea5fdc70317e1db83f593b13840ab59)
 
 <h2> 🤳 Connect with me:</h2>
 www.linkedin.com/in/hasnainrahman
