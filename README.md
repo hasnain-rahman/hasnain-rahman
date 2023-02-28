@@ -9,7 +9,7 @@
 - <b>Global Terrorism Analysis Python Project</b>
   - [Global Terrorism Python](https://github.com/hasnain-rahman/global-terrorism-python)
 - <b>Movie Ratings Analysis PowerBI Project</b>
-  - [Movie Ratings PowerBI](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Movie Ratings PowerBI](https://github.com/hasnain-rahman/movie-ratings-powerbi)
 
 <h2>:page_with_curl: Certifications</h2>
 
