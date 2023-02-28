@@ -1,4 +1,7 @@
 <h1>Hi, I'm Hasnain
+ <h2> <h2>
+   
+Here is my project portfolio. You'll find all the necessary files and code in the repos. However I've added a supporting document as a pdf file where you can go through the complete project easily.
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
