@@ -5,7 +5,7 @@
 - <b>Olympic Games Analysis SQL Project</b>
   - [Olympic games SQL](https://github.com/hasnain-rahman/olympic-games-sql)
 - <b>Maven Toys Sales Analysis Excel Project</b>
-  - [Maven Toys Excel](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Maven Toys Excel](https://github.com/hasnain-rahman/maven-toys-excel)
 - <b>Global Terrorism Analysis Python Project</b>
   - [Global Terrorism Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Movie Ratings Analysis PowerBI Project</b>
