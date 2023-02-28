@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Olympic Games Analysis SQL Project</b>
-  - [Olympic games SQL](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Olympic games SQL](https://github.com/hasnain-rahman/olympic-games-sql)
 - <b>Maven Toys Sales Analysis Excel Project</b>
   - [Maven Toys Excel](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Global Terrorism Analysis Python Project</b>
