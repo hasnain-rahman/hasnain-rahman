@@ -7,7 +7,7 @@
 - <b>Maven Toys Sales Analysis Excel Project</b>
   - [Maven Toys Excel](https://github.com/hasnain-rahman/maven-toys-excel)
 - <b>Global Terrorism Analysis Python Project</b>
-  - [Global Terrorism Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Global Terrorism Python](https://github.com/hasnain-rahman/global-terrorism-python)
 - <b>Movie Ratings Analysis PowerBI Project</b>
   - [Movie Ratings PowerBI](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
